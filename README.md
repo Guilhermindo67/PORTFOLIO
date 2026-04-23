@@ -12,6 +12,7 @@ TailwindCSS,
 APIs Rest.
 
 LINK DO PORTFOLIO:
+
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 https://guilhermealmeidabezerra.netlify.app/
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
