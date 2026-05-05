@@ -1,5 +1,4 @@
 text# Ignorar tudo
-/img/foto.jpeg
 
 # Mas não ignore o próprio .gitignore
 !.gitignore
